@@ -3,3 +3,5 @@ pymysql
 gunicorn
 mysql
 mysql-connector-python
+openpyxl
+pandas
